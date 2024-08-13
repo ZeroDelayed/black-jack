@@ -1,9 +1,3 @@
-"""
-Digital Ready Summer 2024
-Card Game Project
-
-The card class is a representation of a card in a deck of cards.
-"""
 from ranks import Rank
 #from suit import Suit
 import random
